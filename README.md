@@ -24,7 +24,7 @@ The project utilises the following technologies:
 ## Run project
 Copy the project to the desired folder with the following command:
 
-### `git clone https://github.com/Thiago-kon/Minesfield`
+### `git clone https://github.com/Thiago-kon/Calculator`
 
 Install dependences with:
 
