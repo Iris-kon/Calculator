@@ -13,7 +13,7 @@ The application was developed with Next applying the following concepts:
 
 <b>Home:</b>
 
-![home](https://github.com/Thiago-kon/Calculator/blob/main/assets/design/calculator-home.jpg)
+![home](https://github.com/Iris-kon/Calculator/blob/main/assets/design/calculator-home.jpg)
 
 ## Used Technologies
 The project utilises the following technologies:
@@ -24,7 +24,7 @@ The project utilises the following technologies:
 ## Run project
 Copy the project to the desired folder with the following command:
 
-### `git clone https://github.com/Thiago-kon/Calculator`
+### `git clone https://github.com/Iris-kon/Calculator`
 
 Install [Expo](https://docs.expo.dev/get-started/installation/)
 
